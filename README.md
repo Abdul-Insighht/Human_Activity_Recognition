@@ -51,18 +51,8 @@ A complete end-to-end machine learning mobile application that recognizes human 
 
 
 
----
 
-## 👨‍💻 Author
 
-Saif Eddine Daghsni
- LinkedIn: https://www.linkedin.com/in/saif-eddine-daghsni/
-
----
-
-## 📱 Demo
-
-(https://drive.google.com/file/d/1Uf-iulvo0rSxP4Vsbkg5Kjf3COpkCFy8/view?usp=sharing)
 
 
 
